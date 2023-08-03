@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PackYourBags/static/css/main.825a3e8f.css",
-    "main.js": "/PackYourBags/static/js/main.f50c6e05.js",
+    "main.js": "/PackYourBags/static/js/main.75dcb2a0.js",
     "index.html": "/PackYourBags/index.html",
     "main.825a3e8f.css.map": "/PackYourBags/static/css/main.825a3e8f.css.map",
-    "main.f50c6e05.js.map": "/PackYourBags/static/js/main.f50c6e05.js.map"
+    "main.75dcb2a0.js.map": "/PackYourBags/static/js/main.75dcb2a0.js.map"
   },
   "entrypoints": [
     "static/css/main.825a3e8f.css",
-    "static/js/main.f50c6e05.js"
+    "static/js/main.75dcb2a0.js"
   ]
 }
